@@ -1,2 +1,2 @@
-# wikipedia_table_extractor
+# wikipedia table extraction
 data extraction from wikipedia page table
